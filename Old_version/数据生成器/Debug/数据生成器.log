@@ -1,0 +1,24 @@
+﻿  Calculation.cpp
+F:\GitHub项目\DataMaker\数据生成器\Calculation.cpp(61,16): warning C4018: “<”: 有符号/无符号不匹配
+F:\GitHub项目\DataMaker\数据生成器\Calculation.cpp(144,23): warning C4018: “<”: 有符号/无符号不匹配
+  CodeInterpreter.cpp
+F:\GitHub项目\DataMaker\数据生成器\CodeInterpreter.cpp(165,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\GitHub项目\DataMaker\数据生成器\CodeInterpreter.cpp(222,26): warning C4018: “<”: 有符号/无符号不匹配
+F:\GitHub项目\DataMaker\数据生成器\CodeInterpreter.cpp(222,21): warning C4101: “k”: 未引用的局部变量
+F:\GitHub项目\DataMaker\数据生成器\CodeInterpreter.cpp(222,18): warning C4101: “j”: 未引用的局部变量
+F:\GitHub项目\DataMaker\数据生成器\CodeInterpreter.cpp(329,22): warning C4018: “<”: 有符号/无符号不匹配
+F:\GitHub项目\DataMaker\数据生成器\CodeInterpreter.cpp(356,22): warning C4018: “<”: 有符号/无符号不匹配
+F:\GitHub项目\DataMaker\数据生成器\CodeInterpreter.cpp(426,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\GitHub项目\DataMaker\数据生成器\CodeInterpreter.cpp(446,20): warning C4018: “<”: 有符号/无符号不匹配
+  ErrorManager.cpp
+  Stack.cpp
+  VariateManager.cpp
+F:\GitHub项目\DataMaker\数据生成器\VariateManager.cpp(34,20): warning C4018: “<”: 有符号/无符号不匹配
+  数据生成器.cpp
+F:\GitHub项目\DataMaker\数据生成器\数据生成器.cpp(135,27): warning C4018: “<”: 有符号/无符号不匹配
+F:\GitHub项目\DataMaker\数据生成器\数据生成器.cpp(144,43): warning C4018: “>”: 有符号/无符号不匹配
+F:\GitHub项目\DataMaker\数据生成器\数据生成器.cpp(146,39): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+F:\GitHub项目\DataMaker\数据生成器\Calculation.cpp(217): warning C4715: “Calculation::getNum”: 不是所有的控件路径都返回值
+F:\GitHub项目\DataMaker\数据生成器\Calculation.cpp(319): warning C4715: “Calculation::Order”: 不是所有的控件路径都返回值
+  数据生成器.vcxproj -> F:\GitHub项目\DataMaker\数据生成器\Debug\数据生成器.exe
